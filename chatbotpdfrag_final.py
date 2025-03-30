@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 import json
-import fitz  # PyMuPDF
+import fitz
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 import faiss
