@@ -12,7 +12,7 @@ from gtts import gTTS
 import os
 
 # API Key
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "API KEY"
 
 # Konfigurasi Halaman
 st.set_page_config(page_title="Chatbot Self Improvement", layout="wide")
